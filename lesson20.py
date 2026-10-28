@@ -51,3 +51,5 @@ grades = {'Ivan': [4,5,4],
 for grade in grades:
     for num in grades[grade]:
         print(num)
+
+print('Привет')
